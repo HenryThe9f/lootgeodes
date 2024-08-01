@@ -1,0 +1,14 @@
+{
+  "item.loot_geodes.smallgeodeheld": "Geode Chunk",
+  "item.loot_geodes.smallmoltengeodeheld": "Molten Geode Chunk",
+  "item.loot_geodes.geodegrenadeheld": "Explosive Geode",
+  "item.loot_geodes.geodenukeheld": "Blazing Explosive Geode",
+  "block.loot_geodes.small_geode": "Small Geode",
+  "block.loot_geodes.deepslate_small_geode": "Deepslate Small Geode",
+  "block.loot_geodes.netherrack_small_geode": "Netherrack Small Geode",
+  "block.loot_geodes.geode_interior": "Dream Shard Block",
+  "block.loot_geodes.molten_block": "Molten Shard Block",
+  "item.loot_geodes.dreamshard": "Dream Shard",
+  "item.loot_geodes.moltenshard": "Molten Shard",
+  "creativetab.biome_tab": "Loot Geodes"
+}

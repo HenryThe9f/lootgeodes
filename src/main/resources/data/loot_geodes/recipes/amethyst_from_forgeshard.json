@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "loot_geodes:moltenshard"
+    },
+    {
+      "item": "minecraft:redstone"
+
+    },
+    {
+      "item": "minecraft:redstone"
+
+    },
+    {
+      "item": "minecraft:redstone"
+
+    },
+    {
+      "item": "minecraft:redstone"
+
+    },
+    {
+      "item": "minecraft:redstone"
+
+    },
+    {
+      "item": "minecraft:redstone"
+
+    },
+    {
+      "item": "minecraft:redstone"
+
+    },
+    {
+      "item": "minecraft:redstone"
+
+    }
+  ],
+  "result": {
+    "item": "minecraft:amethyst_shard",
+    "count": 16
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "loot_geodes:molten_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "loot_geodes:moltenshard"
+  }
+}

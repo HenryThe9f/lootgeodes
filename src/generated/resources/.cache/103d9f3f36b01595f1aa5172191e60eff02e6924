@@ -1,0 +1,7 @@
+// 1.20.1	2024-07-28T13:16:08.5976434	Registries
+cfbd90805e5a644c0a0ba1c69a5997350bdd91ae data/loot_geodes/forge/biome_modifier/add_geode_ore.json
+83fd89505b655a7a6c8f5a93f0d1b53559a93678 data/loot_geodes/forge/biome_modifier/add_nether_geode_ore.json
+33b33ae9946d718322efc4e93d9aefb72eacb41c data/loot_geodes/worldgen/configured_feature/nether_small_geode.json
+3dcef540f50f6306308818ff7cfe4346df436e0a data/loot_geodes/worldgen/configured_feature/small_geode.json
+2ebf5b72e5abfff09113ef43ccc25e0e9f4b2315 data/loot_geodes/worldgen/placed_feature/nether_geode_ore_placed.json
+fea1dc4d59bfbaf7119b220e956b29d0617f4bbc data/loot_geodes/worldgen/placed_feature/overworld_geode_ore_placed.json

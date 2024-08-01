@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "loot_geodes:moltenshard"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+
+    },
+    {
+      "item": "minecraft:copper_ingot"
+
+    },
+    {
+      "item": "minecraft:copper_ingot"
+
+    },
+    {
+      "item": "minecraft:copper_ingot"
+
+    },
+    {
+      "item": "minecraft:copper_ingot"
+
+    },
+    {
+      "item": "minecraft:copper_ingot"
+
+    },
+    {
+      "item": "minecraft:copper_ingot"
+
+    },
+    {
+      "item": "minecraft:copper_ingot"
+
+    }
+  ],
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 16
+  }
+}

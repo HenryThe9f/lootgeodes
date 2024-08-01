@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "loot_geodes:dreamshard"
+    },
+    {
+      "item": "loot_geodes:dreamshard"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "result": {
+    "item": "minecraft:netherite_scrap",
+    "count": 2
+  }
+}

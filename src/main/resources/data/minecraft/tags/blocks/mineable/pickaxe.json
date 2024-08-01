@@ -1,7 +1,9 @@
 {
   "values": [
-    "fantastic_biomes:limestone",
-    "fantastic_biomes:limestone_bricks",
-    "fantastic_biomes:chiseled_limestone_bricks"
+    "loot_geodes:small_geode",
+    "loot_geodes:deepslate_small_geode",
+    "loot_geodes:geode_interior",
+    "loot_geodes:molten_block",
+    "loot_geodes:netherrack_small_geode"
   ]
 }
